@@ -523,5 +523,35 @@
     "toBank": "",
     "toAccountNumber": "",
     "type": "BI2B"
+  },
+  {
+    "postDate": "04/08/2025 23:59:59",
+    "transactionDate": "04/08/2025 02:13:38",
+    "accountNumber": "02280547863458",
+    "creditAmount": "0",
+    "debitAmount": "10000",
+    "transactionCurrency": "VND",
+    "transactionDesc": "TRUONG VI PHUC TRUONG VI PHUC chuyen tien- Ma GD A CSP/ IS446454",
+    "balanceAvailable": "90033",
+    "refNo": "FT25216650505309",
+    "toAccountName": "Truong Duy Khanh",
+    "toBank": "Agribank – NH Nông Nghiệp và Phát triển Nông thôn VN  ",
+    "toAccountNumber": "Truong Duy Khanh",
+    "type": "BC2B"
+  },
+  {
+    "postDate": "04/08/2025 23:59:59",
+    "transactionDate": "04/08/2025 02:11:21",
+    "accountNumber": "02280547863458",
+    "creditAmount": "0",
+    "debitAmount": "40000",
+    "transactionCurrency": "VND",
+    "transactionDesc": "CUSTOMER TRUONG VI PHUC chuyen tien. DEN: TRUONG VI PHUC",
+    "balanceAvailable": "100033",
+    "refNo": "FT25216686196205",
+    "toAccountName": "TRUONG VI PHUC ",
+    "toBank": "MB",
+    "toAccountNumber": "TRUONG VI PHUC ",
+    "type": "ACIB"
   }
 ]
