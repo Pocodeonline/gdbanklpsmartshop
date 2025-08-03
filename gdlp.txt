@@ -493,5 +493,20 @@
     "toBank": "BAB NH TMCP BAC A",
     "toAccountNumber": "DANG HIEN LONG",
     "type": "ACSM"
+  },
+  {
+    "postDate": "04/08/2025 23:59:59",
+    "transactionDate": "04/08/2025 01:49:04",
+    "accountNumber": "02280547863458",
+    "creditAmount": "10000",
+    "debitAmount": "0",
+    "transactionCurrency": "VND",
+    "transactionDesc": "TRUONG DUY KHANH MB 02280547863458 ssnjjjasjhs111- M a GD ACSP/ DS060629",
+    "balanceAvailable": "140033",
+    "refNo": "FT25216334894487",
+    "toAccountName": "",
+    "toBank": "",
+    "toAccountNumber": "",
+    "type": "BI2B"
   }
 ]
