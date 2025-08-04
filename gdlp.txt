@@ -763,5 +763,35 @@
     "toBank": "MB",
     "toAccountNumber": "TRUONG VI PHUC",
     "type": "ACIB"
+  },
+  {
+    "postDate": "05/08/2025 23:59:59",
+    "transactionDate": "05/08/2025 04:16:21",
+    "accountNumber": "02280547863458",
+    "creditAmount": "0",
+    "debitAmount": "10000",
+    "transactionCurrency": "VND",
+    "transactionDesc": "CUSTOMER lpbd01acc4546272540. DEN: TRUONG VI PHUC",
+    "balanceAvailable": "40033",
+    "refNo": "FT25217109252676",
+    "toAccountName": "TRUONG VI PHUC",
+    "toBank": "MB",
+    "toAccountNumber": "TRUONG VI PHUC",
+    "type": "ACIB"
+  },
+  {
+    "postDate": "05/08/2025 23:59:59",
+    "transactionDate": "05/08/2025 04:16:00",
+    "accountNumber": "02280547863458",
+    "creditAmount": "50000",
+    "debitAmount": "0",
+    "transactionCurrency": "VND",
+    "transactionDesc": "CUSTOMER TRUONG VI PHUC chuyen tien. TU: TRUONG VI PHUC",
+    "balanceAvailable": "50033",
+    "refNo": "FT25217923320425",
+    "toAccountName": "TRUONG VI PHUC",
+    "toBank": "MB",
+    "toAccountNumber": "TRUONG VI PHUC",
+    "type": "ACIB"
   }
 ]
