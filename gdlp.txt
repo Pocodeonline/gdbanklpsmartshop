@@ -583,5 +583,20 @@
     "toBank": "MB",
     "toAccountNumber": "TRUONG VI PHUC",
     "type": "ACIB"
+  },
+  {
+    "postDate": "06/08/2025 23:59:59",
+    "transactionDate": "06/08/2025 01:00:29",
+    "accountNumber": "02280547863458",
+    "creditAmount": "10000",
+    "debitAmount": "0",
+    "transactionCurrency": "VND",
+    "transactionDesc": "CUSTOMER sshjjasasjjaskj123133. TU: TRUONG VI PHUC",
+    "balanceAvailable": "40033",
+    "refNo": "FT25218352020163",
+    "toAccountName": "TRUONG VI PHUC",
+    "toBank": "MB",
+    "toAccountNumber": "TRUONG VI PHUC",
+    "type": "ACIB"
   }
 ]
