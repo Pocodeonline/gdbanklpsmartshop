@@ -6,7 +6,7 @@
     "creditAmount": "0",
     "debitAmount": "10000",
     "transactionCurrency": "VND",
-    "transactionDesc": "CUSTOMER ccc2aas23222222aaa. DEN: TRUONG VI PHUC",
+    "transactionDesc": "CUSTOMER ccc2aas23222222aaaxfgxfxfgxfxfgxfg. DEN: TRUONG VI PHUC",
     "balanceAvailable": "90033",
     "refNo": "FT25216057871301",
     "toAccountName": "TRUONG VI PHUC",
