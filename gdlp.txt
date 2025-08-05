@@ -21,7 +21,7 @@
     "creditAmount": "0",
     "debitAmount": "10000",
     "transactionCurrency": "VND",
-    "transactionDesc": "CUSTOMER lpbd01acc4988687. DEN: TRUONG VI PHUC",
+    "transactionDesc": "CUSTOMER lpbd01acc49886875454. DEN: TRUONG VI PHUC",
     "balanceAvailable": "10033",
     "refNo": "FT25217856563370",
     "toAccountName": "TRUONG VI PHUC",
