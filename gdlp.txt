@@ -568,5 +568,20 @@
     "toBank": "BAB NH TMCP BAC A",
     "toAccountNumber": "DANG HIEN LONG",
     "type": "ACSM"
+  },
+  {
+    "postDate": "06/08/2025 23:59:59",
+    "transactionDate": "06/08/2025 00:43:51",
+    "accountNumber": "02280547863458",
+    "creditAmount": "10000",
+    "debitAmount": "0",
+    "transactionCurrency": "VND",
+    "transactionDesc": "CUSTOMER nguaysssbnabn1. TU: TRUONG VI PHUC",
+    "balanceAvailable": "30033",
+    "refNo": "FT25218123458364",
+    "toAccountName": "TRUONG VI PHUC",
+    "toBank": "MB",
+    "toAccountNumber": "TRUONG VI PHUC",
+    "type": "ACIB"
   }
 ]
