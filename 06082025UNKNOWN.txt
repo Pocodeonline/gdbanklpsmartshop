@@ -28,5 +28,20 @@
     "toBank": "",
     "toAccountNumber": "",
     "type": "ACSM"
+  },
+  {
+    "postDate": "06/08/2025 23:59:59",
+    "transactionDate": "06/08/2025 21:16:05",
+    "accountNumber": "0987131860",
+    "creditAmount": "10000",
+    "debitAmount": "0",
+    "transactionCurrency": "VND",
+    "transactionDesc": "CUSTOMER AA0006462   Ma giao dich  Trace4931 07 Trace 493107",
+    "balanceAvailable": "30410",
+    "refNo": "FT25218396023600",
+    "toAccountName": "",
+    "toBank": "",
+    "toAccountNumber": "",
+    "type": "ACSM"
   }
 ]
