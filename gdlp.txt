@@ -478,5 +478,35 @@
     "toBank": "MB",
     "toAccountNumber": "DANG HIEN LONG",
     "type": "ACIB"
+  },
+  {
+    "postDate": "09/08/2025 23:59:59",
+    "transactionDate": "09/08/2025 16:53:42",
+    "accountNumber": "02280547863458",
+    "creditAmount": "300000",
+    "debitAmount": "0",
+    "transactionCurrency": "VND",
+    "transactionDesc": "TRUONG THI TUYET HANG MB 02280547863458 TRUONG THI TUYET HANG chuyen tien- Ma GD ACSP/ HH063 001",
+    "balanceAvailable": "340033",
+    "refNo": "FT25221966030869",
+    "toAccountName": "",
+    "toBank": "",
+    "toAccountNumber": "",
+    "type": "BI2B"
+  },
+  {
+    "postDate": "09/08/2025 23:59:59",
+    "transactionDate": "09/08/2025 00:29:47",
+    "accountNumber": "02280547863458",
+    "creditAmount": "60000",
+    "debitAmount": "0",
+    "transactionCurrency": "VND",
+    "transactionDesc": "CUSTOMER DANG HIEN LONG chuyen tien. TU: DANG HIEN LONG",
+    "balanceAvailable": "60033",
+    "refNo": "FT25221209316807",
+    "toAccountName": "TRUONG VI PHUC",
+    "toBank": "MB",
+    "toAccountNumber": "TRUONG VI PHUC",
+    "type": "ACIB"
   }
 ]
