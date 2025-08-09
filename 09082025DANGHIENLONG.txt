@@ -1,0 +1,17 @@
+[
+  {
+    "postDate": "09/08/2025 23:59:59",
+    "transactionDate": "09/08/2025 16:50:36",
+    "accountNumber": "0987131860",
+    "creditAmount": "10000",
+    "debitAmount": "0",
+    "transactionCurrency": "VND",
+    "transactionDesc": "CUSTOMER MAND86255960. TU: TRUONG VI PHUC",
+    "balanceAvailable": "10410",
+    "refNo": "FT25221065522507",
+    "toAccountName": "DANG HIEN LONG",
+    "toBank": "MB",
+    "toAccountNumber": "DANG HIEN LONG",
+    "type": "ACIB"
+  }
+]
